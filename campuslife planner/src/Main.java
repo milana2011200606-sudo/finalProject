@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class Main {
   public static void main(String[] args) {
 
+    // Courses
     Course oop = new Course("OOP", "Dr. Lee", 6);
     Course discrete = new Course("Discrete Math", "Mr. Watson", 5);
     Course english = new Course("English", "Ms. Kim", 3);
